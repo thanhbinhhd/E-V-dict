@@ -4,5 +4,5 @@
 # make file:  
   make  
 # run
-  chmod 777 start.sh
+  chmod 777 start.sh  
   ./start.sh
